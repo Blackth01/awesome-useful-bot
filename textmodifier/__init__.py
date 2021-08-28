@@ -1,0 +1,1 @@
+from textmodifier.__main__ import TextModifier

@@ -1,0 +1,1 @@
+from yttomp3.__main__ import YTToMP3
